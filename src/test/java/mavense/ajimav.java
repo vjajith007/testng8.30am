@@ -23,6 +23,8 @@ public class ajimav {
 	// getting cell
 	Cell c=r.getCell(2);
 	System.out.println(c);
+	System.out.println(c);
+	System.out.println(c);
 	}
 
 }
